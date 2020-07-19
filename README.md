@@ -1,5 +1,5 @@
 # petmove
-move a pet between different players, rely on <a href="https://github.com/Fallen-Breath/MCDReforged">MCDR</a>
+move a pet between different players, rely on <a href="https://github.com/Fallen-Breath/MCDReforged">MCDR</a>, rcon, and Minecraft version<=1.15.2
 
 Usage:
 1. Move close to one of your pets, and make sure it is your nearest entity.
